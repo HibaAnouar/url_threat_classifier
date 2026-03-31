@@ -4,7 +4,7 @@ Classifies URLs as benign, phishing, malware, or defacement using
 18 hand-crafted security features + Logistic Regression.
 
 ## Results
-- Validation Macro F1: [your number here]
+- Validation Macro F1: 0.70
 - Inference latency: ~2ms per URL
 
 ## Run the API
